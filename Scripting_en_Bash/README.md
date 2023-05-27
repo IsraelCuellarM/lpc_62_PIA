@@ -6,8 +6,8 @@
 
 [number](./number.sh) script en el que pedimos el ingreso de valores y se muestran en pantalla. 
 
-[netdicover](./netdiscover.sh) se trata de un script que funciona como un escáner de red básico en Bash, con él podemos descubrir los equipos conectados a la red interna.
+[netdiscover](./netdiscover.sh) se trata de un script que funciona como un escáner de red básico en Bash, con él podemos descubrir los equipos conectados a la red interna.
 
 [portscanv1](./portscanv1.sh) script que funciona como un escaner de puertos, lo hace utilizando el archivo especial en /dev.
 
-[superscan](./superscan.sh) script que funciona como un menú, tiene opciones para ejecutar códigos como [netdicover](./netdiscover.sh), [portscanv1](./portscanv1.sh) y [welcome](./welcome.sh), además de una opción para salir. 
+[superscan](./superscan.sh) script que funciona como un menú, tiene opciones para ejecutar códigos como [netdiscover](./netdiscover.sh), [portscanv1](./portscanv1.sh) y [welcome](./welcome.sh), además de una opción para salir. 
