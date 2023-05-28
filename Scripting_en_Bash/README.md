@@ -1,6 +1,6 @@
 ## Practica 6. Scripting en Bash.
 
-El objetivo de esta practica es aprender a desarrollar Scripts en BASH.
+El objetivo de esta práctica es aprender a desarrollar Scripts en BASH.
 
 [Welcome](./welcome.sh) es un script que nos muestra los usuarios conectados y los procesos.
 
