@@ -22,8 +22,6 @@ En [scrap8](./scrap8.py) el script se realiza una solicitud HTTP a una página w
 
 En [scrap9](./scrap9.py) el script se realiza una solicitud HTTP a una página web, analiza su contenido HTML y busca los trabajos que contengan la palabra "python" en su título. Luego, extrae información relevante de estos trabajos, como la empresa, la ubicación y el título, y muestra la información, junto con el enlace de solicitud de empleo.
 
-
-
 En [scrap10](./scrap10.py) el script se imprime el nombre de la empresa, la ubicación y el título del trabajo, seguido de los enlaces adicionales encontrados en cada trabajo, junto con su texto y URL
 
 En [scrap11](./scrap11.py) el script se buscarán los elementos que contengan la clase "card-content" y el texto "python" en el elemento h2. Luego, se obtendrán el título, la empresa, la ubicación y los enlaces adicionales para cada trabajo y se mostrarán en la salida.
