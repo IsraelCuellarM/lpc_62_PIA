@@ -9,4 +9,8 @@ A continuación se muestran las prácticas realizadas durante el semestre.
 
 - [Scripting_en_Bash](./Scripting_en_Bash/)
 
+
+
+- [Escaneo_de_puertos](./Escaner_de_puertos/)
+
 - [Correo_Electronico](./Correo_Electronico/)
