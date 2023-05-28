@@ -13,6 +13,6 @@ A continuación se muestran las prácticas realizadas durante el semestre.
 
 - [Webscraping](./Webscraping/) los scripts de esta práctica fueron realizados en Python, todos tiene una función relacionada con la filtración de información que ha sido extraída del HTML de una URL, comenzando desde lo básico hasta filtrados más rebuscados.
 
-- [Escaneo_de_puertos](./Escaner_de_puertos/) los scripts de esta practica fueron realizados en Python, tiene la funcion de realizar escaneos de puertos, utilizan modulos como Socket y Nmap para realziar dicha tarea.
+- [Escaneo_de_puertos](./Escaner_de_puertos/) los scripts de esta práctica fueron realizados en Python, tiene la función de realizar escaneos de puertos, utilizan módulos como Socket y Nmap para realizar dicha tarea.
 
 - [Correo_Electronico](./Correo_Electronico/) esta práctica contiene un script de Python que envía un correo electrónico que contiene texto en formato HTML y una imagen.
