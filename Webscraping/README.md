@@ -1,6 +1,6 @@
 ## Practica 8. WebScraping.
 
-Los siguientes scripts fueron realizados en Python, todos tiene una función relacionada con la filtración de información que ha sido extraída del HTML de una URL, comenzando desde lo básico hasta filtrados más rebuscados.
+El objetivo de esta práctica es aprender a desarrollar scripts en Python que filtren la información de páginas web. 
 
 En [scrap1](./scrap1.py) el script se realiza una solicitud GET a una URL utilizando requests y luego imprime el contenido HTML de la respuesta.
 
