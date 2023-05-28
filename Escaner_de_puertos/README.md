@@ -1,5 +1,7 @@
 ## Practia 11. Escanér de puertos.
 
+El objetivo de esta práctica es aprender a desarrollar scripts en Python que tenga como función el escaneo de la red, con dichos escaneos obtendremos información como el estado de los puertos (abierto/cerrado), detección de sistemas operativos de dispositivos conectados a la red y una lista de los dispositivos conectados a nuestra red. 
+
 [MY_SCAN](./My_SCAN.py) en este script se despliega un menú en el que usuario puede elegir entre varias opciones, ya sea un escaneo UDP, escaneo de la red mediante ping, hacer detección de sistemas operativo o un escaneo de puertos completo.
 
 [SCAN_PORTV1](./SCAN_PORTV1.py) script que realiza un escaneo de puertos y nos devuelve una lista con los puertos que se encuentran abiertos. El escaneo se lleva a cabo en la dirección IP que debe ser ingresada como primero argumento y se escanean el rango de puertos ingresados en el segundo argumento.
