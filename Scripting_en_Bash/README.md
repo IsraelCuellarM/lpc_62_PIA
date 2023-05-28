@@ -1,5 +1,7 @@
 ## Practica 6. Scripting en Bash.
 
+El objetivo de esta practica es aprender a desarrollar Scripts en BASH.
+
 [Welcome](./welcome.sh) es un script que nos muestra los usuarios conectados y los procesos.
 
 [bro](./bro.sh) script en que pedimos un valor al usuario y devolvemos un mensaje de saludo con el valor ingresado.
