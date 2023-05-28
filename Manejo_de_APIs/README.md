@@ -1,7 +1,6 @@
 ## Practica 02 - Manejo de APIS
 
-En esta practica se hicieron algunas scripts utilizando python, dichas scripts hacen conexion con una API en postman.
-
+El objetivo de esta práctica es aprender a utilizar postman que es una plataforma de APIS, lo hacemos creando scripts en Python que conectan con APIS de dicha plataforma.
 
 En [pokemon1](./pokemon1.py) se realiza una petición al servidor y devuelve un json con el nombre de los pokemones.
 
