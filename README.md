@@ -5,7 +5,7 @@ Este repositorio consiste en las prácticas realizadas durante el semestre en el
 
 A continuación se muestran las prácticas realizadas durante el semestre.
 
-- [Manejo de APIs](./Manejo_de_APIs/) 
+- [Manejo de APIs](./Manejo_de_APIs/) esta práctica se hicieron algunos scripts utilizando Python, dichos scripts hacen conexión con una API en postman.
 
 - [Scripting_en_PowerShell](./Scripting_en_PowerShell/)
 
